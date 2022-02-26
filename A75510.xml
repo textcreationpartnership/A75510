@@ -1,0 +1,141 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An appollogie of the souldiers to all their commission officers in Sir Thomas Fairfax his armie.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75510</idno>
+            <idno type="STC">Wing A3559</idno>
+            <idno type="STC">Thomason E381_18</idno>
+            <idno type="STC">ESTC R201419</idno>
+            <idno type="EEBO-CITATION">99861931</idno>
+            <idno type="PROQUEST">99861931</idno>
+            <idno type="VID">114077</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75510)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 114077)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 61:E381[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An appollogie of the souldiers to all their commission officers in Sir Thomas Fairfax his armie.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from Wing.</note>
+                  <note>Annotation on Thomason copy: "Marsh. 26. 1647".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Soldiers --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-07</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="apology">
+            <pb facs="tcp:114077:1" rendition="simple:additions"/>
+            <head>An Apollogie of the Souldiers to all their Commiſſion Officers in Sir THOMAS FAIRFAX his Armie.</head>
+            <opener>
+               <salute>SIRS,</salute>
+            </opener>
+            <p>WE your Soldiers who have ſerved under your Commands, with all readineſſe to free this our land and nation from all tyranny and oppreſſion whatſoever, and that by vertue of Commiſſion both of this preſent Parliament, and from the hands of Sir <hi>Thomas Fairfax,</hi> whom now is our Generall at this preſent, and likewiſe alſo from all the late generalls that were his prediceſſors in this our late war, which was, and is both juſtifiable and warrantable for you, which both by the law of nature, and the neceſſity of the land, through the permittance of God you have been called unto: Now we (we ſay) meaning the whole Solderie, who have faithfully ſerved both the State and you, without any by reſpect to our ſelves, or any ambition of or to that great power that God hath been pleaſed to put into their hands, or that honour that he hath caſt upon any of you, but on the contrary were alwayes right glad, when that any conſcientious, godly and juditious moral man was placed either in that great Counſel at home, or the publick ſervice broad, which we had thought would have been to the utter extirpation of all ungodlineſſe and illegall proceedings againſt the liberty of the Subject, according to the tenor of all their oathes, vowes, declarations, and Proteſtations, through which hope and comfort the hearts of our whole Armie were mightily animated, and unanimouſly went through all difficul<g ref="char:EOLhyphen"/>ties to the uttermoſt of our power, even to the adventuring of our lives, limbes, and eſtates, for the preſervation of the Goſpel, the liberty of the Subject, and the juſt and right privi<g ref="char:EOLhyphen"/>ledges of Parliament, which we ſhall ever be willing to maintaine, they protecting us in our lives, liberties and eſtates, to live under them ſafely and peaceably in the faith and pra<g ref="char:EOLhyphen"/>ctice of the Goſpel, which was and is the tenor of our ſervice, of which we have but little hopes, ſeeing every day where we come to our great diſcomfort, how the common enemyes of our peace are countenanced and we diſregarded, or rather contemned, and the honeſt par<g ref="char:EOLhyphen"/>tie of the Kingdome in all parts ſlited, and in many places impriſoned, whereby we are made ſenſible, what we are like to ſuffer, when once diſperſed, by which meanes we are in<g ref="char:EOLhyphen"/>forced, or rather provokd, to frame or draw a petition unto the honourable houſe of Parlia<g ref="char:EOLhyphen"/>ment, wherein we ſhall make knowing our grievances, whereunto we deſire your aſſent, yet notwithſtanding we are not ignorant of that great likelyhood, which there is of eſtates to be ſealed upon all of you, which wil be in effect-but like the trunling of a goulden-bal before you, to make you to run after it, with an intent never to let you have it, but when they have once devorced you from your Soldiers, thinke to order you at their pleaſure, and indeed if they once effect this their deſigne, which we think is the disbanding of our forces, that then you muſt ſubject your ſelves unto their wills, and ſo make a god of your <hi>Mammon,</hi> or elſe be content to part with what they ſhall ſo ſettle upon you, and alſo that which is your owne already, and however it will be but a pu chaſing of a bondage of ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>very to you and your po<g ref="char:EOLhyphen"/>ſterity to eternity, they being carried along as we perceive in many of their proceedings, by thoſe who not dare to both pray and preach for the deſtrict<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of our Armie in theſe words, that God would be pleaſed to bring to confuſion thoſe wicked, ungodly Comman<g ref="char:EOLhyphen"/>ders, and damned trooping Divells, (for whoſe viſtories the Lord make us ever thankfull) but before this disbanding be brought to paſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, we hope they will out of a godly and ſericus conſideration thinke upon us their Soldiers who have faithfully ſerved them in this their
+<pb facs="tcp:114077:2" rendition="simple:additions"/>love and unhappy war, even unto the very ſubduing of their enemies, through the wonder<g ref="char:EOLhyphen"/>full bleſſing of God, they themſelves, lives, liberties, and eſtates together with the King<g ref="char:EOLhyphen"/>domes deliverances, being teſtimonies of our ſervice, and not to expoſe us into the hands of ſuch mercileſſe men, where we ſhall not dare to make any profeſſion of what God ſhall hold ſooth or reveale unto us, nay not yet once to ſpeake in the behalfe of this our juſt and law<g ref="char:EOLhyphen"/>full ſervice in which we have ſerved them, which we doe render in reſpect of our liberties, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en thouſand times more then all our Arrears, in which we hope they will not in the leaſt deale diſcourteouſly with us, we being ſuch men as are willing to walke by this rule, as to be content with our wages, and we having our brethren the Scots, for an inſample in that particular, and againe, we ſay, it had been better for us never to been born, or at leaſt to have been an Army, then that thoſe honeſt people, who have ſhewen themſelves with us, and for us in theſe our ſad calamities, and that ten times more for our juſt priviledge and liber<g ref="char:EOLhyphen"/>ties, then for their owne ends, then that they ſhould ſuffer either impriſonment of body, or any other tyrannical and ungodly perſecutions, and that without any redreſſe or legall relief, who have been imbolened through thoſe bleſſed atchievements and ſucceſſions of our Ar<g ref="char:EOLhyphen"/>mie, as to diſcover themſelves for us, among whom we may count our ſelves who are like to partake of the ſame afflictions, if not prevented before the anulity of our armie, which if not that then there will be but little difference between you, our Officers, and us your Soldiers, witneſſe that audatiousneſſe of the ill affected in all places, ſaying of ſome of you <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heady, what was ſuch and ſuch a one before theſe times, beſides thoſe wicked and inſolen: ſpeeches wherewith the whole Armie in generall is mocked, ſcoffed and derided by thoſe wicked, Matcha <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illians of the world undeſervedly.</p>
+            <p>Now theſe and many other ſuch like reaſons being taken into your ſerious conſiderations we hope will we be juſt cauſe for you to goe along with us in this buſineſſe, or at the leaſt to let us quietlly alone in this out deſigne, we deſiring no more then what is juſt and right, according to all their Declarations, and Proteſtations to the whole world, that being our witneſſe, thus leaving you to the powerfull wiſedome of God, which is only able to make you wiſe to all things, we reſt ſo praying.</p>
+            <closer>
+               <signed>Your ſervants ſo far as we may.</signed>
+            </closer>
+            <pb facs="tcp:114077:2"/>
+         </div>
+      </body>
+   </text>
+</TEI>
